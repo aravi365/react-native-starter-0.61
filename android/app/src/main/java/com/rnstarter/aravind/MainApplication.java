@@ -1,4 +1,4 @@
-package com.speechtext;
+package com.rnstarter.aravind;
 
 import android.app.Application;
 import android.content.Context;
